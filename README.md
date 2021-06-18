@@ -31,6 +31,7 @@ This applications is an personal finance manager.
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
+- [React-modal](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [MirageJS](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
